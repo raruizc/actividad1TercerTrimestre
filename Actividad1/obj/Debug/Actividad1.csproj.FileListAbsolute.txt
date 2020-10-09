@@ -1,0 +1,14 @@
+C:\Users\Ricardo\source\repos\Actividad1\Actividad1\bin\Debug\Actividad1.exe.config
+C:\Users\Ricardo\source\repos\Actividad1\Actividad1\bin\Debug\Actividad1.exe
+C:\Users\Ricardo\source\repos\Actividad1\Actividad1\bin\Debug\Actividad1.pdb
+C:\Users\Ricardo\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.csprojAssemblyReference.cache
+C:\Users\Ricardo\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.exe
+C:\Users\Ricardo\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.pdb
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Actividad1\Actividad1\bin\Debug\Actividad1.exe.config
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Actividad1\Actividad1\bin\Debug\Actividad1.exe
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Actividad1\Actividad1\bin\Debug\Actividad1.pdb
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Actividad1\Actividad1\obj\Debug\Actividad1.csprojAssemblyReference.cache
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Actividad1\Actividad1\obj\Debug\Actividad1.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Actividad1\Actividad1\obj\Debug\Actividad1.exe
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Actividad1\Actividad1\obj\Debug\Actividad1.pdb
