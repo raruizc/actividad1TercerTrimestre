@@ -12,3 +12,10 @@ C:\Users\Ricardo\source\repos\Tercer Trimestre\Actividad1\Actividad1\obj\Debug\A
 C:\Users\Ricardo\source\repos\Tercer Trimestre\Actividad1\Actividad1\obj\Debug\Actividad1.csproj.CoreCompileInputs.cache
 C:\Users\Ricardo\source\repos\Tercer Trimestre\Actividad1\Actividad1\obj\Debug\Actividad1.exe
 C:\Users\Ricardo\source\repos\Tercer Trimestre\Actividad1\Actividad1\obj\Debug\Actividad1.pdb
+C:\Users\Ricardo\Desktop\Cursos\Sena\Análisis y Desarrollo de Sistemas de Información\3_Tercer Trimestre\Programación_Avanzada\Actividades\Actividad1\Actividad1\bin\Debug\Actividad1.exe.config
+C:\Users\Ricardo\Desktop\Cursos\Sena\Análisis y Desarrollo de Sistemas de Información\3_Tercer Trimestre\Programación_Avanzada\Actividades\Actividad1\Actividad1\bin\Debug\Actividad1.exe
+C:\Users\Ricardo\Desktop\Cursos\Sena\Análisis y Desarrollo de Sistemas de Información\3_Tercer Trimestre\Programación_Avanzada\Actividades\Actividad1\Actividad1\bin\Debug\Actividad1.pdb
+C:\Users\Ricardo\Desktop\Cursos\Sena\Análisis y Desarrollo de Sistemas de Información\3_Tercer Trimestre\Programación_Avanzada\Actividades\Actividad1\Actividad1\obj\Debug\Actividad1.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\Cursos\Sena\Análisis y Desarrollo de Sistemas de Información\3_Tercer Trimestre\Programación_Avanzada\Actividades\Actividad1\Actividad1\obj\Debug\Actividad1.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\Cursos\Sena\Análisis y Desarrollo de Sistemas de Información\3_Tercer Trimestre\Programación_Avanzada\Actividades\Actividad1\Actividad1\obj\Debug\Actividad1.exe
+C:\Users\Ricardo\Desktop\Cursos\Sena\Análisis y Desarrollo de Sistemas de Información\3_Tercer Trimestre\Programación_Avanzada\Actividades\Actividad1\Actividad1\obj\Debug\Actividad1.pdb
